@@ -1,0 +1,2 @@
+installation 
+pip install opencv-contrib-python --no-cache-dir
